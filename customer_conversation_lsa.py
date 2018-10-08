@@ -5,7 +5,7 @@
 
 """
 steps for LSA
-1. TFIDF vectorizer
+1. TFIDF vectorizer or any other techniques such as word2vec or countvectorizer
 2. LSA
 
 or
