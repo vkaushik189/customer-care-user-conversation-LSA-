@@ -14,6 +14,8 @@ or
 2. Doc-term matrix
 3. LSA 
 """
+
+#importing required packages
 import pandas as pd
 import numpy as np
 import warnings
